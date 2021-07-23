@@ -1,0 +1,7 @@
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\bin\Debug\Slidy.exe.config
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\bin\Debug\Slidy.exe
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\bin\Debug\Slidy.pdb
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\obj\Debug\Slidy.csprojResolveAssemblyReference.cache
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\obj\Debug\Slidy.csproj.CoreCompileInputs.cache
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\obj\Debug\Slidy.exe
+C:\Users\AhmadTheGhost\source\repos\Slidy\Slidy\obj\Debug\Slidy.pdb
